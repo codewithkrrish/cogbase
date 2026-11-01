@@ -1,0 +1,1 @@
+"""cogbase bot package."""
